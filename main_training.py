@@ -11,7 +11,6 @@ from loggers import SummaryWriterCallback
 from data_logger import StoreDataCallback
 from test import bs_locations
 from util import get_algorithm_function
-from rander import Render, render_animation
 
 
 
