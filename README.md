@@ -37,7 +37,7 @@ The following files are provided in this repository:
   probability
 - `test.py`: Python script that runs the test phase
 - `util.py`: Python module that contains utility functions.
-
+- `requirements.txt`: File listing all the required libraries
 ## Usage
 ### Running it online
 You can use services like [CodeOcean](https://codeocean.com) or
