@@ -1,0 +1,17 @@
+Gymnasium==0.26.3
+gym==0.21.0
+ray==2.6.2
+numpy==1.24.2
+pandas==2.0.0
+matplotlib==3.7.1
+scikit-image==0.22.0
+scipy==1.10.1
+torch==2.0.1
+tensorflow==2.13.0rc1
+tensorboard==2.13.0
+opencv-python==4.8.0.74
+stable-baselines3==1.7.0
+tqdm==4.65.0
+plotly==5.14.1
+requests==2.28.2
+protobuf==4.22.1
