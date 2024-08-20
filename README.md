@@ -52,9 +52,10 @@ The present code was developed and tested with the following versions:
 - numpy 1.24
 - scipy 1.10
 - matplotlib 3.7
-```diff
-- Add needed libraries and versions you have used
-```
+- tensorflow 2.13
+- tensorboard 2.13
+- stable-baselines3 1.7.0
+
 
 Make sure you have [Python3](https://www.python.org/downloads/) installed on
 your computer.
